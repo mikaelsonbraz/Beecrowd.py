@@ -1,0 +1,5 @@
+num = int(input())
+hs = float(input())
+h = float(input())
+print(f"NUMBER = {num}")
+print(f"SALARY = U$ {hs*h:.2f}")
