@@ -1,15 +1,15 @@
-numero_de_testes = int(input())
+num_casos = int(input())
 
-for teste in range(0, numero_de_testes):
+for teste in range(num_casos):
     entrada = input().split()
-    pa = int(entrada[0])
-    pb = int(entrada[1])
-    g1 = float(entrada[2]) / 100
-    g2 = float(entrada[3]) / 100
+    cidade_menor = int(entrada[0])
+    cidade_maior = int(entrada[1])
+    crescimento_cidade_menor = float(entrada[2]) / 100
+    crescimento_cidade_maior = float(entrada[3]) / 100
     anos = 0
-    while pa <= pb:
-        pa += int(pa * g1)
-        pb += int(pb * g2)
+    while cidade_menor <= cidade_maior:
+        cidade_menor += int(cidade_menor * crescimento_cidade_menor)
+        cidade_maior += int(cidade_maior * crescimento_cidade_maior)
         anos += 1
         if anos > 100:
             break
