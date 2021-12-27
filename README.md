@@ -5,4 +5,5 @@ ________________________________
 utilizando Python 3</h3>
 ________________________________
 <h3>Repositório contendo os desafios resolvidos utilizando a linguagem Java:
-1. [Java](https://github.com/mikaelsonbraz/Beecrowd.java)</h3>
+  
+[Java](https://github.com/mikaelsonbraz/Beecrowd.java)</h3>
