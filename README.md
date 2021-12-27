@@ -1,3 +1,8 @@
-# URI Online Judge
-#### Repositório usado pra armazenar as MINHAS resoluções dos desafios da URI
-1. [Iniciante](https://www.urionlinejudge.com.br/judge/pt/problems/index/1)
+<h1>www.beecrowd.com.br</h1>
+
+________________________________
+<h3>Repositório criado para armazenar os códigos dos desafios resolvidos 
+utilizando Python 3</h3>
+________________________________
+Repositório contendo os desafios resolvidos utilizando a linguagem Java:
+1. [Java](https://github.com/mikaelsonbraz/Beecrowd.java)
